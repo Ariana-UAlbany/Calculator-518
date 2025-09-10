@@ -1,0 +1,12 @@
+## Step 5: What You Learned (Common Response)
+
+*one line responses, please.*
+
+- Which tool would you use for sharing this information with the instructor ? (shared google docs.. pdf… a simple file in your github repo? Anything works! )
+Add a simple file in github repo
+
+- Why Git forces you to **pull before pushing**.
+Git forces you to pull before pushing so that you have an updated version of the main code before adding your new edits
+
+- Can you explain in your own words what caused the conflict, what the markers meant, which version you chose (and why), and how you confirmed the result was clean and pushed.
+The conflict was caused because two different versions of the addition() function existed. From the local repo, pushing the new edit cuased a conflict. We chose the earlier version because it was simpler. We confirmed the result was clean because we removed the markers and left only one version of addition().
