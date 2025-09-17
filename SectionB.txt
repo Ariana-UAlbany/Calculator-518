@@ -1,0 +1,8 @@
+1. git checkout -b "NewBranchName"
+2. git pull
+3. staging area
+4. Intentions:
+- got the changes from the remote repository to local repository then switch to a new branch called bugfix/missing-button
+- adding button.js to the staging area then committing to the repository with a message to fix missing submit button
+- switch to the main branch, then get changes from the main branch, then merge the bugfix branch into the main branch. --no-ff forces a merge commit despite it being a fast forward: this maintains a clear branch record
+- sync the changes back to the remote repository
